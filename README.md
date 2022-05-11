@@ -20,6 +20,11 @@ Once `poetry` is installed,
 - Install a virtual environment with the appropriate dependencies using `poetry install`
 - Run the project using `poetry run hlm2mc`
 
+## Links
+PyPI: https://pypi.org/project/hlm2-music-changer
+
+GitHub: https://github.com/generic-user1/hlm2_music_changer
+
 ## Other notes
 You can purchase [Hotline Miami 2: Wrong Number](https://store.steampowered.com/app/274170/Hotline_Miami_2_Wrong_Number/) on [Steam](https://store.steampowered.com/). 
 Please note that the author of this software is not affiliated with Devolver Digital or Dennaton Games. This software is in no way official.
